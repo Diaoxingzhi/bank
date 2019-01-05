@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/**导航栏**/
+.main .top{
+    width: 1851px;
+    height: 126px;
+    margin: 0 auto;
+    background-color: #163379;
+}
+.main .top .top-nav{
+    width: 1301px;
+    height: 126px;
+    margin-left: 275px;
+    margin-right: 278px;
+}
+.main .top .top-nav .nav-pic{
+    float: left;
+    width: 268px;
+    height: 126px;
+    margin-right: 178px;
+}
+.main .top .top-nav .nav-pic img{
+    width: 100%;
+    height: 100%;
+}
+.main .top .top-nav .nav-content{
+    margin-left: 178px;
+    width: 857px;
+    height: 124px;
+    background-color: red;
+}
+.main .news{
+    width: 1301px;
+    height: 668px;
+    margin:0 auto;
+
+}

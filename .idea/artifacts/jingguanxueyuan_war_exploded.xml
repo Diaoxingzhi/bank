@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="jingguanxueyuan:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/jingguanxueyuan_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="jingguanxueyuan/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="jingguanxueyuan" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
